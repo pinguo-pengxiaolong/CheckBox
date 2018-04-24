@@ -1,3 +1,7 @@
+/*
+ * The joke is on me
+ */
+
 import React, { Component } from 'react';
 
 class Checkbox extends Component {
